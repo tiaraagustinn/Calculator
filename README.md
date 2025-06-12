@@ -2,12 +2,10 @@
 
 Proyek Android sederhana dengan nama **Calculator** yang dibuat untuk latihan pengembangan aplikasi Android dan penerapan unit testing serta instrumented testing.
 
-## 👥 Kelompok 4
+## Dibuat oleh
 
-1. Tiara Agustin  
-2. Novia Anggreini  
-3. Nisa Rianti  
-4. Akhsania Maisa Rahma  
+Tiara Agustin (2208107010004)
+ 
 
 ---
 
